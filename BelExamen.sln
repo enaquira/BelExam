@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelExam.BL", "BelExamen.BL\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelExam.DA", "BelExamen.DA\BelExam.DA.csproj", "{A4F45C28-EA1A-4ED3-AE90-D09FAF55C35E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelExamen.UI.API", "BelExamen.UI.API\BelExamen.UI.API.csproj", "{50F642EF-9EEE-4B34-81DE-5D8E780D6581}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelExamen.WS", "BelExamen.UI.API\BelExamen.WS.csproj", "{50F642EF-9EEE-4B34-81DE-5D8E780D6581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
